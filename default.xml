@@ -6,5 +6,6 @@
     <!-- remove aosp standard projects and replace with cyanogenmod versions -->
     <project path="multimedia_transcode" name="echoAdo/multimedia_transcode" remote="github"/>
     <project path="multimediaParser" name="echoAdo/multimediaParser" remote="github"/>
+    <project path="repo_add" name="echoAdo/repo_add" remote="github"/>
 
 </manifest>
